@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog-nu-ten-89.vercel.app/'
 languageCode = 'en-us'
 title = 'Demo Hugo Site'
 theme = "spaced-blog"
