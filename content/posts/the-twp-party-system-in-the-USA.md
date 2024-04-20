@@ -2,6 +2,7 @@
 title = 'The Two Party System in the USA'
 date = 2024-04-19T19:09:03+08:00
 draft = false
+tags = ["politics"]
 +++
 
 # The two party System in the USA
